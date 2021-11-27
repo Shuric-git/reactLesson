@@ -1,0 +1,1 @@
+(()=>{var e=document.getElementById("hodin");e.addEventListener("click",(function(){e.style.color="red"}))})();
